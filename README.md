@@ -1,6 +1,6 @@
 ## Daily-react-87-font-app
 
-> Challenge: create a Benjamin Franklin's 13 Virtues App.
+> Challenge: create a font preview and store App.
 
 Work in progress: https://github.com/jamal7x7/daily-react-87-font-app
 
